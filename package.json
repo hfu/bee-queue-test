@@ -1,0 +1,24 @@
+{
+  "name": "bee-queue-test",
+  "version": "1.0.0",
+  "description": "just for testing bee-queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/bee-queue-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/bee-queue-test/issues"
+  },
+  "homepage": "https://github.com/hfu/bee-queue-test#readme",
+  "dependencies": {
+    "@mapbox/tilebelt": "^1.0.1",
+    "bee-queue": "^1.2.2"
+  }
+}
